@@ -5,3 +5,10 @@
 3. Emoji
   1. :heart:
   2. :boy:
+
+<details>
+  <summary>Title</summary>
+
+  Content here
+
+</details>
